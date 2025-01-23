@@ -1,5 +1,5 @@
 # Image-Recognition
-Basic image recognition software using Python and chatgpt
+Basic image recognition software using Python and chatgpt in 40 mins without having any prior knowledge to image recognition
 # Real-Time Object Detection and Image Recognition with Python
 
 This documentation provides a comprehensive guide to setting up and running a real-time object detection system in Python. It includes using a webcam feed, leveraging the COCO dataset, and experimenting with YOLO and pre-trained models.
